@@ -1,0 +1,11 @@
+Artist,P-Value,Mean_Distance,Significance
+G_Dey,1.0000,52.7061,Significant
+G_Gen,1.0000,53.9250,Significant
+G_Goya,0.2120,48.2056,Not Significant
+G_Klimt,0.5750,48.7156,Not Significant
+G_Mithila,1.0000,52.9689,Significant
+G_Raja,0.0640,47.8644,Not Significant
+G_Ren,0.0000,43.3994,Significant
+G_Robert,1.0000,53.3489,Significant
+G_Sid,0.0000,44.7117,Significant
+G_Vin,0.0000,44.8489,Significant
