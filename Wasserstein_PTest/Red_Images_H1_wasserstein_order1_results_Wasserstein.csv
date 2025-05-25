@@ -1,0 +1,11 @@
+Artist,P-Value,Mean_Distance,Significance
+R_Dey,0.0000,7026.1172,Significant
+R_Gen,0.0000,6778.4228,Significant
+R_Goya,0.0000,6582.0061,Significant
+R_Klimt,1.0000,8032.3911,Significant
+R_Mithila,1.0000,10826.4733,Significant
+R_Raja,0.0000,6012.1828,Significant
+R_Ren,1.0000,8887.9200,Significant
+R_Robert,0.0000,6478.9256,Significant
+R_Sid,0.0160,7247.0089,Significant
+R_Vin,1.0000,8244.6256,Significant
